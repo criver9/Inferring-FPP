@@ -24,6 +24,7 @@ Note: 1) Steps 2 and 3 need to be evaluated for each model in the hierarchy, unt
 
 4. The file GenerateFig7AutoGit.m generated Fig 7 in [1].
 
+5. The file GenerateFig8AutoGit.m generated Fig 8 in [1].
 
 
 
