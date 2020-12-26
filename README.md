@@ -9,7 +9,15 @@ The files of this repository are as follows:
 2. The file Hessian Determ Analytics Synthetic Purkinje.nb estimates the Hessian of the posterior distribution of a given model at the optimal fit estimated in the    step 1.
 3. ImportanceSamplingGitDic2020.m estimated the log-marginal likelihood for a the selected model.
 
-Note: Steps 2 and 3 need to be evaluated for each model in the hierarchy, until the simplest model that represents the data is found.
+Note: 1) Steps 2 and 3 need to be evaluated for each model in the hierarchy, until the simplest model that represents the data is found. 2) If optimal values fall at the boundary of the parameter domain Hessian needs to be manually modified as explain in Material and Methods of [1].
+
+# Figure's Generation
+
+1. The file GenerateFig3AutoGit.m generates figures similar to Fig 3 and Fig 4 in [1].
+
+
+
+
 
 
 # References
