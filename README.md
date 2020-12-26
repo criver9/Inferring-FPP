@@ -18,9 +18,11 @@ Note: 1) Steps 2 and 3 need to be evaluated for each model in the hierarchy, unt
    link to the code:
    http://nsb-entropy.sourceforge.net/
    
-2. The file GenerateFig3AutoGit.m generates figures similar to Fig5 in [1]. 
+2. The file GenerateFig3AutoGit.m generated Fig 5 in [1]. 
 
+3. The file GenerateFig6AutoGit.m generated Fig 6 in [1].
 
+4. The file GenerateFig7AutoGit.m generated Fig 7 in [1].
 
 
 
