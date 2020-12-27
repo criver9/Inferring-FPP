@@ -14,7 +14,7 @@ Note: 1) Steps 2 and 3 need to be evaluated for each model in the hierarchy, unt
 # Figure's Generation
 
 1. The file GenerateFig3AutoGit.m generates figures similar to Fig 3 and Fig 4 in [1].
-   Note: The file uses entropy estimations for the PDF distributions inferred. The Bayesian entropy estimation was based on the method proposed in [2]. Here the 
+   Note: The file uses entropy estimations of the inferred PDF distributions. The Bayesian entropy estimation was based on the method proposed in [2]. Here the 
    link to the code:
    http://nsb-entropy.sourceforge.net/
    
